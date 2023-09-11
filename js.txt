@@ -1,4 +1,0 @@
-creating js calcular using js and bootstrap
-here i have use onclick for summit button to get ans and mouseover will change ans when curser gone to them 
-but will find it not working when we are seeing responsive where we have to click button to get outputd
-  
